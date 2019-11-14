@@ -1,4 +1,4 @@
-// Supplies Needed:  Arduino Uno, A breadboard(optional), and two wires.
+// Supplies Needed:  Arduino Uno, A breadboard(optional), a LED of any color, and two jumper wires(also optional but required if your using a breadboard.).
 int ledPin = (13);
 void setup() {
 pinMode(ledPin, OUTPUT);
