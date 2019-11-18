@@ -11,5 +11,5 @@ Username = input("Please Enter Your Prefered Username:")
 for i in range(1):
     print("Adding to the Data Base, Please Wait...")
     time.sleep(5)
-    print("Hello", Username, "Welocme To The Oasis.")
+    print("Hello", Username, "and welcome To The Oasis.")
 #Welcome to The Oasis...
